@@ -22,6 +22,7 @@ This project will look at box office performance for top 10 box office in the Un
 6. Integrate Predictive Model (Regression)
 
 ### Movie Variables
+•	Top 10 place
 •	Share of total market share of data spent by moviegoers per year
 •	Release Season
 •	Budget
@@ -50,5 +51,9 @@ This project will look at box office performance for top 10 box office in the Un
 ### Explore Socio-Demographic Indicators for target Audience (maybe)
 •	Movie-goers gender distribution
 •	Movie-goers age distribution
-### Analysis Questions:
-•	Is there a correlation between any of the above variables and the box-office income for top 10 rating?
+### Correlation Analysis Questions:
+•	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies?
+### Predictive Model Analysis Questions:
+•	Do any of the significantly correlated variables predict box-office income for top 10 movies?
+
+
