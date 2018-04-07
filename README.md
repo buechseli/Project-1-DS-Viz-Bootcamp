@@ -14,7 +14,13 @@ This project will look at box office performance for top 10 box office in the Un
  
 
 ### Research Approach:
-Select top 10 movies for the year for 5 years 
+1. Select top 10 movies for the year for 5 years 
+2. Extract Movie Variables
+3. Integrate Social Media Variables
+4. Integrate Socio-Demographic Data
+5. Perform Correlation Analysis
+6. Integrate Predictive Model (Regression)
+
 ### Movie Variables
 •	Share of total market share of data spent by moviegoers per year
 •	Release Season
