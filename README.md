@@ -1,5 +1,5 @@
-# Project-1-DS-Viz-Bootcamp
-Project 1 - Box Office Oracle
+# Project-1-Box Office Oracle
+Data Science and Visualization Bootcamp
 ## Project Question: What makes a top 10 box-office movie?
 
 ### Group:  
