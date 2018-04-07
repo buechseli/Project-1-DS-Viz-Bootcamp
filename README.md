@@ -1,11 +1,14 @@
 # Project-1-DS-Viz-Bootcamp
 Project 1 - Box Office Oracle
 ## Project Question: What makes a top 10 box-office movie?
-Group:   Jason Do
-	 Isabel Buechsel
-	Grace Chan
-	 Fathi Elshibani
-Description: This project will look at box office performance for top 10 box office in the United States.  We will integrate movie production data (director, budget, actor, title, franchise, movie rating, release date) with audience socio-demographic indicators for the target audience (age, gender), weather data and social media mentions (twitter, facebook, google).  Out of those variables, we will look at which variable has the highest impact on box office performance and seek to create a predictive model.
+Group:  
+	 * Jason Do
+	 * Isabel Buechsel
+	 * Grace Chan
+	 * Fathi Elshibani
+
+### Description: 
+This project will look at box office performance for top 10 box office in the United States.  We will integrate movie production data (director, budget, actor, title, franchise, movie rating, release date) with audience socio-demographic indicators for the target audience (age, gender), weather data and social media mentions (twitter, facebook, google).  Out of those variables, we will look at which variable has the highest impact on box office performance and seek to create a predictive model.
 
  
 
