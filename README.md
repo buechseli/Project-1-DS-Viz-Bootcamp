@@ -40,6 +40,7 @@ This project will look at box office performance for top 10 box office in the Un
 •	Production Studio
 ### Explore Social Media 
 •	Twitter followers for Director in the year
+
 •	Twitter followers for Actors in the year (top 2)
 ### Correlation Analysis Questions:
 •	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies?
