@@ -57,3 +57,12 @@ This project will look at box office performance for top 10 box office in the Un
 •	Do any of the significantly correlated variables predict box-office income for top 10 movies?
 
 
+* How does the number of tweets/sentiment affect box office numbers. Previous 6 months and 6 months after release?\par* 
+* Disbursement between movies, how a movie gets the most market share?\par
+* HIgher the movie budget, the higher the probability it will be succesful. Gather the top 20 high movie budget movies and then compare how well they did. 
+* Movie budgets and movie actors affecting box office, higher budget for actor/actress salaries. Twitter Popularity/Mentions affect movies. E.G Brad Pitt/George Clooney/Tom Hanks in one movie, does that turn into a box office automatically?
+* When is the most optimal time to release movie, which holidays are the best time to release a movie? How does weather condition affect the performance of a movie. How does limited or wide release affects the movie box office.\par
+* How does Family ratings affect moviegoing, is it best to have the movie rated PG-13 to have the most amount of movie goers?\par
+* The more movies the director produced the higher the chance of creating a box office?\par
+* The  better the sequel the better the box office?\par
+* High facebook likes? High box office?\par
