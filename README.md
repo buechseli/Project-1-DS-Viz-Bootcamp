@@ -39,18 +39,8 @@ This project will look at box office performance for top 10 box office in the Un
 •	Critic Rating
 •	Production Studio
 ### Explore Social Media 
-•	Twitter mentions for Movie in the year
-•	Twitter mentions for Director in the year
-•	Twitter mentions for Actors in the year (top 2)
-•	Facebook Likes for Movie in the year
-•	Facebook Likes for Director in the year
-•	Facebook Likes for Actors in the year (top 2)
-•	Google searches for Movie in the year
-•	Google searches for Director in the year
-•	Google searches for Actors in the year (top 2)
-### Explore Socio-Demographic Indicators for target Audience (maybe)
-•	Movie-goers gender distribution
-•	Movie-goers age distribution
+•	Twitter followers for Director in the year
+•	Twitter followers for Actors in the year (top 2)
 ### Correlation Analysis Questions:
 •	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies?
 ### Predictive Model Analysis Questions:
