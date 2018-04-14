@@ -1,0 +1,51 @@
+,Movie Title,Year,Studio,Total Gross,Theaters,Opening,Open,Close,Rated,Runtime (Minutes),Director,Actor 1,Actor 2,Rotten Tomatoes (%),Metacritic,IMDB Rating,Production Studio
+0,The Hunger Games: Catching Fire,2013,LGF,424668047,"4,163",158074286,22-Nov,3-Apr,PG-13,146,Francis Lawrence,Jennifer Lawrence, Liam Hemsworth,89,76.0,75.0,Lionsgate Films
+1,Iron Man 3,2013,BV,409013994,"4,253",174144585,3-May,12-Sep,PG-13,130,Shane Black,Robert Downey Jr., Gwyneth Paltrow,80,62.0,72.0,Walt Disney Pictures
+2,Frozen,2013,BV,400738009,"3,742",243390,22-Nov,17-Jul,PG,102,Chris Buck,Kristen Bell, Idina Menzel,90,74.0,75.0,Walt Disney Pictures
+3,Despicable Me 2,2013,Uni.,368061265,"4,003",83517315,3-Jul,16-Jan,PG,98,Pierre Coffin,Steve Carell, Kristen Wiig,74,62.0,74.0,Universal Pictures
+4,Man of Steel,2013,WB,291045518,"4,207",116619362,14-Jun,19-Sep,PG-13,143,Zack Snyder,Henry Cavill, Amy Adams,55,55.00000000000001,71.0,Warner Bros. Pictures
+5,Gravity,2013,WB,274092705,"3,820",55785112,4-Oct,8-May,PG-13,91,Alfonso Cuarón,Sandra Bullock, George Clooney,96,96.0,78.0,Warner Bros. Pictures
+6,Monsters University,2013,BV,268492764,"4,004",82429469,21-Jun,19-Dec,G,104,Dan Scanlon,Billy Crystal, John Goodman,79,65.0,73.0,Walt Disney Pictures
+7,The Hobbit: The Desolation of Smaug,2013,WB (NL),258366855,"3,928",73645197,13-Dec,17-Apr,PG-13,161,Peter Jackson,Ian McKellen, Martin Freeman,74,66.0,79.0,Warner Bros.
+8,Fast & Furious 6,2013,Uni.,238679850,"3,771",97375245,24-May,5-Sep,PG-13,130,Justin Lin,Vin Diesel, Paul Walker,69,61.0,71.0,Universal Pictures
+9,Oz The Great and Powerful,2013,BV,234911825,"3,912",79110453,8-Mar,18-Jul,PG,130,Sam Raimi,James Franco, Mila Kunis,59,44.0,63.0,Walt Disney Pictures
+10,American Sniper,2014,WB,350126372,"3,885",633456,25-Dec,25-Jun,R,133,Clint Eastwood,Bradley Cooper, Kyle Gallner,72,72.0,73.0,Warner Bros.
+11,The Hunger Games: Mockingjay - Part 1,2014,LGF,337135885,"4,151",121897634,21-Nov,19-Mar,PG-13,123,Francis Lawrence,Jennifer Lawrence, Josh Hutcherson,66,64.0,67.0,Lionsgate Films
+12,Guardians of the Galaxy,2014,BV,333176600,"4,088",94320883,1-Aug,22-Jan,PG-13,121,James Gunn,Chris Pratt, Zoe Saldana,91,76.0,81.0,Walt Disney Pictures
+13,Captain America: The Winter Soldier,2014,BV,259766572,"3,938",95023721,4-Apr,21-Aug,PG-13,136,Anthony Russo,Chris Evans, Samuel L. Jackson,89,70.0,78.0,Walt Disney Pictures
+14,The LEGO Movie,2014,WB,257760692,"3,890",69050279,7-Feb,4-Sep,PG,100,Phil Lord,Will Arnett, Elizabeth Banks,96,83.0,78.0,Warner Bros. Pictures
+15,The Hobbit: The Battle of the Five Armies,2014,WB (NL),255119788,"3,875",54724334,17-Dec,2-Apr,PG-13,144,Peter Jackson,Ian McKellen, Martin Freeman,59,59.0,74.0,Warner Bros.
+16,Transformers: Age of Extinction,2014,Par.,245439076,"4,233",100038390,27-Jun,9-Oct,PG-13,165,Michael Bay,Mark Wahlberg, Stanley Tucci,18,32.0,57.0,Paramount Pictures
+17,Maleficent,2014,BV,241410378,"3,948",69431298,30-May,4-Dec,PG,97,Robert Stromberg,Angelina Jolie, Elle Fanning,51,56.00000000000001,70.0,Walt Disney Pictures
+18,X-Men: Days of Future Past,2014,Fox,233921534,"4,001",90823660,23-May,9-Oct,PG-13,132,Bryan Singer,Hugh Jackman, James McAvoy,90,74.0,80.0,20th Century Fox
+19,Big Hero 6,2014,BV,222527828,"3,773",56215889,7-Nov,28-May,PG,102,Don Hall,Scott Adsit, Ryan Potter,89,74.0,78.0,Walt Disney Pictures
+20,Star Wars: The Force Awakens,2015,BV,936662225,"4,134",247966675,18-Dec,2-Jun,PG-13,136,J.J. Abrams,Harrison Ford, Mark Hamill,93,81.0,80.0,Walt Disney Pictures
+21,Jurassic World,2015,Uni.,652270625,"4,291",208806270,12-Jun,19-Nov,PG-13,124,Colin Trevorrow,Chris Pratt, Bryce Dallas Howard,71,59.0,70.0,Universal Pictures
+22,Avengers: Age of Ultron,2015,BV,459005868,"4,276",191271109,1-May,8-Oct,PG-13,141,Joss Whedon,Robert Downey Jr., Chris Hemsworth,75,66.0,74.0,Walt Disney Pictures
+23,Inside Out,2015,BV,356461711,"4,158",90440272,19-Jun,10-Dec,PG,95,Pete Docter,Amy Poehler, Phyllis Smith,98,94.0,82.0,Disney/Pixar
+24,Furious 7,2015,Uni.,353007020,"4,022",147187040,3-Apr,24-Jul,PG-13,137,James Wan,Vin Diesel, Paul Walker,80,67.0,72.0,Universal Pictures
+25,Minions,2015,Uni.,336045770,"4,311",115718405,10-Jul,17-Dec,PG,91,Kyle Balda,Sandra Bullock, Jon Hamm,56,56.00000000000001,64.0,Universal Pictures
+26,The Hunger Games: Mockingjay - Part 2,2015,LGF,281723902,"4,175",102665981,20-Nov,25-Feb,PG-13,137,Francis Lawrence,Jennifer Lawrence, Josh Hutcherson,70,65.0,65.0,Lionsgate Films
+27,The Martian,2015,Fox,228433663,"3,854",54308575,2-Oct,17-Mar,PG-13,144,Ridley Scott,Matt Damon, Jessica Chastain,91,80.0,80.0,20th Century Fox
+28,Cinderella ,2015,BV,201151353,"3,848",67877361,13-Mar,17-Sep,PG,105,Kenneth Branagh,Cate Blanchett, Lily James,84,67.0,69.0,Walt Disney Pictures
+29,Spectre,2015,Sony,200074609,"3,929",70403148,6-Nov,7-Apr,PG-13,148,Sam Mendes,Daniel Craig, Christoph Waltz,63,60.0,68.0,Sony Pictures
+30,Rogue One: A Star Wars Story,2016,BV,532177324,4157,155081681,43450,43224,PG-13,133,Gareth Edwards,Felicity Jones, Diego Luna,85,65.0,78.0,Walt Disney Pictures
+31,Finding Dory,2016,BV,486295561,4305,135060273,43268,43442,PG,97,Andrew Stanton,Ellen DeGeneres, Albert Brooks,94,77.0,74.0,Walt Disney Pictures/PIXAR
+32,Captain America: Civil War,2016,BV,408084349,4226,179139142,43226,43365,PG-13,147,Anthony Russo,Chris Evans, Robert Downey Jr.,91,75.0,78.0,Walt Disney Pictures
+33,The Secret Life of Pets,2016,Uni.,368384330,4381,104352905,43289,43463,PG,87,Chris Renaud,Louis C.K., Eric Stonestreet,75,61.0,65.0,Universal Pictures
+34,The Jungle Book ,2016,BV,364001123,4144,103261464,43205,43372,PG,106,Jon Favreau,Neel Sethi, Bill Murray,95,77.0,75.0,Walt Disney Pictures
+35,Deadpool,2016,Fox,363070709,3856,132434639,43143,43267,R,108,Tim Miller,Ryan Reynolds, Karan Soni,83,65.0,80.0,20th Century Fox
+36,Zootopia,2016,BV,341268248,3959,75063401,43163,43316,PG,108,Byron Howard,Ginnifer Goodwin, Jason Bateman,98,78.0,80.0,Walt Disney Animation Studios
+37,Batman v Superman: Dawn of Justice,2016,WB,330360194,4256,166007347,43184,43267,PG-13,151,Zack Snyder,Ben Affleck, Henry Cavill,27,44.0,66.0,Warner Bros. Pictures
+38,Suicide Squad,2016,WB,325100054,4255,133682248,43317,43414,PG-13,123,David Ayer,Will Smith, Jaime FitzSimons,26,40.0,61.0,Warner Bros. Pictures
+39,Sing,2016,Uni.,270395425,4029,35258145,43455,43221,PG,108,Garth Jennings,Matthew McConaughey, Reese Witherspoon,73,59.0,71.0,Illumination Entertainment
+40,Star Wars: The Last Jedi,2017,BV,620164565,"4,232",220009584,15-Dec,-,PG-13,152,Rian Johnson,Mark Hamill, Carrie Fisher,91,85.0,74.0,Walt Disney Pictures
+41,Beauty and the Beast ,2017,BV,504014165,"4,210",174750616,17-Mar,13-Jul,PG,129,Bill Condon,Emma Watson, Dan Stevens,71,65.0,73.0,Walt Disney Pictures
+42,Wonder Woman,2017,WB,412563408,"4,165",103251471,2-Jun,9-Nov,PG-13,141,Patty Jenkins,Gal Gadot, Chris Pine,92,76.0,75.0,Warner Bros. Pictures
+43,Jumanji: Welcome to the Jungle,2017,Sony,403652109,"3,849",36169328,20-Dec,-,PG-13,119,Jake Kasdan,Dwayne Johnson, Kevin Hart,76,57.99999999999999,70.0,Columbia Pictures
+44,Guardians of the Galaxy Vol. 2,2017,BV,389813101,"4,347",146510104,5-May,21-Sep,PG-13,136,James Gunn,Chris Pratt, Zoe Saldana,83,67.0,77.0,Walt Disney Pictures
+45,Spider-Man: Homecoming,2017,Sony,334201140,"4,348",117027503,7-Jul,30-Nov,PG-13,133,Jon Watts,Tom Holland, Michael Keaton,92,73.0,75.0,Sony Pictures
+46,It,2017,WB (NL),327481748,"4,148",123403419,8-Sep,14-Dec,R,135,Andy Muschietti,Jaeden Lieberher, Jeremy Ray Taylor,85,69.0,75.0,Warner Bros. Pictures
+47,Thor: Ragnarok,2017,BV,315058289,"4,080",122744989,3-Nov,15-Mar,PG-13,130,Taika Waititi,Chris Hemsworth, Tom Hiddleston,92,74.0,80.0,Walt Disney Pictures
+48,Despicable Me 3,2017,Uni.,264624300,"4,535",72434025,30-Jun,21-Dec,PG,89,Kyle Balda,Steve Carell, Kristen Wiig,60,49.0,63.0,Universal Pictures
+49,Justice League,2017,WB,229024295,"4,051",93842239,17-Nov,15-Mar,PG-13,120,Zack Snyder,Ben Affleck, Henry Cavill,40,45.0,68.0,Warner Bros. Pictures
