@@ -14,9 +14,14 @@ Data Science and Visualization Bootcamp
 This project will look at box office performance for top 10 box office in the United States.  We will integrate movie production data (director, budget, actor, title, franchise, movie rating, release date) and social media mentions (twitter, youtube).  Out of those variables, we will look at which variable has the highest impact on box office performance and seek to create a predictive model.
 
 ### Folders & Files:
-1. CSV Folder: Contains files with data extracted into spreadsheet format
-2. DataFrames & Code Folder: Contains files with the python code used to perform API calls and merge data from different sources into a single dataframe for analysis
-3. Charts and Graphical Views Folder: Contains the png files that visualize key relationships between box office revenue and exploratory variables 
+#### 1. CSV Folder: 
+Contains files with data extracted into spreadsheet format
+#### 2. DataFrames & Code Folder: 
+Contains files with the python code used to perform API calls and merge data from different sources into a single dataframe for analysis
+#### 3. Charts and Graphical Views Folder: 
+Contains the png files that visualize key relationships between box office revenue and exploratory variables 
+#### 4. PPT: 
+Contains the PPT versions prepared and presented for project
 
 ### Research Approach:
 1. Select top 10 movies for the year for 5 years 
