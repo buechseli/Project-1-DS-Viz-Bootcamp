@@ -10,7 +10,11 @@ Data Science and Visualization Bootcamp
 	 * Fathi Elshibani
 
 ### Description: 
+<<<<<<< HEAD
 This project will look at box office performance for top 10 box office in the United States.  We will integrate movie production data (director, budget, actor, title, franchise, movie rating, release date) with audience socio-demographic indicators for the target audience (age, gender), weather data and social media mentions (twitter, facebook, google).  Out of those variables, we will look at which variable has the highest impact on box office performance and seek to create a predictive model.
+=======
+This project will look at box office performance for top 10 box office in the United States.  We will integrate movie production data (director, budget, actor, title, franchise, movie rating, release date) and social media mentions (twitter, youtube).  Out of those variables, we will look at which variable has the highest impact on box office performance and seek to create a predictive model.
+>>>>>>> 66f7d4c8fd43b3758a84ad2ee43579c1e0b266bb
 
  
 
@@ -18,6 +22,7 @@ This project will look at box office performance for top 10 box office in the Un
 1. Select top 10 movies for the year for 5 years 
 2. Extract Movie Variables
 3. Integrate Social Media Variables
+<<<<<<< HEAD
 4. Integrate Socio-Demographic Data
 5. Perform Correlation Analysis
 6. Integrate Predictive Model (Regression)
@@ -35,11 +40,25 @@ This project will look at box office performance for top 10 box office in the Un
 •	Director (Number of Movies overall)
 •	Actors Names
 •	Actors (Number of Movies overall)
+=======
+5. Perform Correlation Analysis
+
+### Movie Variables
+•	Top 10 place
+•	Release Season
+•	Franchise
+•	Sequel
+•	Genre
+•	Director Name
+•	Director (Twitter)
+•	Actors Names
+>>>>>>> 66f7d4c8fd43b3758a84ad2ee43579c1e0b266bb
 •	Number of Theaters
 •	Audience Rating
 •	Critic Rating
 •	Production Studio
 ### Explore Social Media 
+<<<<<<< HEAD
 •	Twitter mentions for Movie in the year
 •	Twitter mentions for Director in the year
 •	Twitter mentions for Actors in the year (top 2)
@@ -67,3 +86,18 @@ This project will look at box office performance for top 10 box office in the Un
 * The more movies the director produced the higher the chance of creating a box office?
 * The  better the sequel the better the box office?
 * High facebook likes? High box office?
+=======
+•	Twitter followers & Retweets for Director  
+•	Youtube views & likes for Movie Trailers
+### Correlation Analysis Questions:
+•	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies?
+
+
+* How does the number of followers and retweet affect box office numbers?
+* How does the trailer views & likes in youtube affect box office numbers?
+* HIgher the movie budget, the higher the probability it will be succesful. Gather the top 20 high movie budget movies and then compare how well they did. 
+* When is the most optimal time to release movie, which holidays are the best time to release a movie?
+* How does Family ratings affect moviegoing, is it best to have the movie rated PG-13 to have the most amount of movie goers?\par
+* The more movies the director produced the higher the chance of creating a box office?
+* The  better the sequel the better the box office?
+>>>>>>> 66f7d4c8fd43b3758a84ad2ee43579c1e0b266bb
