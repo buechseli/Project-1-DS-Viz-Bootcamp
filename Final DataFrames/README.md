@@ -62,7 +62,7 @@ Contains the PPT versions prepared and presented for project
 ### Correlation Analysis Questions:
 •	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies
 
-## Key Takeaways
+# Key Takeaways
 ### 1. Holidays are good for box office revenues
 ### 2. Family-friendly films (PG/PG-13 MPAA rated) have the highest average revenue
 ### 3. Overall, critic ratings have a constant score range for top 10 box office hits
