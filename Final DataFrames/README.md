@@ -57,14 +57,14 @@ This project will look at box office performance for top 10 box office in the Un
 ### Correlation Analysis Questions:
 •	Is there a significant correlation between any of the above variables and the box-office income for top 10 rating for the top 10 movies
 
-### Key Takeaways
-•	Holidays are good for box office revenues
-•	Family-friendly films (PG/PG-13 MPAA rated) have the highest average revenue
-•	Overall, critic ratings have a constant score range for top 10 box office hits
-•	Rotten Tomatoes critic ratings are positively correlated with box office revenue
-•	YouTube movie trailer views and likes correlate with overall box office revenue
-•	The popularity of the director is not a key variable in determining the box office revenue
-•	The most successful movies are part of franchises with a highly engaged fan base
+## Key Takeaways
+### 1. Holidays are good for box office revenues
+### 2. Family-friendly films (PG/PG-13 MPAA rated) have the highest average revenue
+### 3. Overall, critic ratings have a constant score range for top 10 box office hits
+### 4. Rotten Tomatoes critic ratings are positively correlated with box office revenue
+### 5. YouTube movie trailer views and likes correlate with overall box office revenue
+### 6. The popularity of the director is not a key variable in determining the box office revenue
+### 7. The most successful movies are part of franchises with a highly engaged fan base
 
 
 
